@@ -11,7 +11,7 @@ GitHub Repository Link :
 
 ##Usage
 
-This project contains 
+This project is a portfolio application that contains nav bars, sections, buttons, images and links. This project uses advance CSS and basic HTML to give the user a portfolio website that contains an 'About Me', 'Work', and 'Contact' section. The application contains hover colors on some of the headers and also hovers on some of the images. The application is interactive, and the buttons bring the user to the GitHub and LinkedIn profiles. The images under the 'Work' section takes the user to the deployed applications.
 
 ##Website Screentshot
 ![Alt text](images/2023-03-25.png)
