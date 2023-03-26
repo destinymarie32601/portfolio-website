@@ -5,9 +5,9 @@ The motive of this project was to create a portfolio for potential employers, to
 
 Links
 
-Deployed Application URL : 
+Deployed Application URL :  https://destinymarie32601.github.io/portfolio-website/
 
-GitHub Repository Link : 
+GitHub Repository Link : https://github.com/destinymarie32601/portfolio-website
 
 Usage
 
